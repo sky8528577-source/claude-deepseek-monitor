@@ -1,12 +1,16 @@
 # Claude-DeepSeek Monitor
 
-[![Electron](https://img.shields.io/badge/Electron-33-47848F?logo=electron&logoColor=white)](https://electronjs.org)
+[[![Download](https://img.shields.io/badge/Download-v1.0-blue?logo=github)](https://github.com/sky8528577-source/claude-deepseek-monitor/releases/latest)
+
+![Electron](https://img.shields.io/badge/Electron-33-47848F?logo=electron&logoColor=white)](https://electronjs.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Tailwind](https://img.shields.io/badge/Tailwind-3-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 实时监控 Claude Code 中 DeepSeek API 用量、Token 消耗、缓存命中率及余额的桌面应用。
+
+> [**下载安装包 (Windows)**](https://github.com/sky8528577-source/claude-deepseek-monitor/releases/latest)
 
 ---
 
