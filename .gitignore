@@ -1,0 +1,9 @@
+node_modules/
+dist/
+release/
+data/
+.claude/
+.ui-backup/
+*.cjs
+*.ps1
+config.yaml
