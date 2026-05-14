@@ -1,7 +1,6 @@
 # Claude-DeepSeek Monitor
 
-[[![Download](https://img.shields.io/badge/Download-v1.0-blue?logo=github)](https://github.com/sky8528577-source/claude-deepseek-monitor/releases/latest)
-
+[[![Download](https://img.shields.io/badge/Download-v1.0-3b82f6)](https://github.com/sky8528577-source/claude-deepseek-monitor/releases/latest)
 ![Electron](https://img.shields.io/badge/Electron-33-47848F?logo=electron&logoColor=white)](https://electronjs.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://typescriptlang.org)
