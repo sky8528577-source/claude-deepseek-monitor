@@ -1,6 +1,6 @@
 {
   "name": "deepseek-monitor",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "DeepSeek API 实时用量监控仪表板",
   "main": "dist/main/index.js",
   "scripts": {

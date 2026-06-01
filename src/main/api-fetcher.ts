@@ -241,9 +241,8 @@ export async function fetchCSVUsage(): Promise<number> {
   const token = (config as unknown as Record<string, unknown>).platform_cookie as string || '';
 
   const today = new Date();
-  const start = new Date(today);
-  start.setDate(start.getDate() - 1);
-  const startStr = start.toISOString().slice(0, 10);
+  // Use 1st of current month to ensure correct month/year in API call
+  const startStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-01`;
   const endStr = today.toISOString().slice(0, 10);
 
   let result = 0;
