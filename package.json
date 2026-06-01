@@ -23,15 +23,9 @@
       "output": "release"
     },
     "files": [
-      "dist/**/*",
-      "config.yaml"
+      "dist/**/*"
     ],
-    "extraResources": [
-      {
-        "from": "data",
-        "to": "data"
-      }
-    ],
+    "extraResources": [],
     "win": {
       "target": "nsis",
       "icon": null
