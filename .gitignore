@@ -6,4 +6,7 @@ data/
 .ui-backup/
 *.cjs
 *.ps1
+*.zip
+*.bat
+installer.nsh
 config.yaml
